@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Data Structures and Algorithms, Virtual Machines, Kubernetes
 - 📫 How to reach me: Connect with me on LinkedIn : https://www.linkedin.com/in/saipraveenkumar-jallipalli-590393213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: In Pakistan one minute is equal to 60 seconds
+- ⚡ Fun fact: The first Computer mouse was made of wood.
 
