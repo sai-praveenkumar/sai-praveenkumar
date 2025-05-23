@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Connect with me on LinkedIn : https://www.linkedin.com/in/saipraveenkumar-jallipalli-590393213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The first Computer mouse was made of wood.
-
+- 🙂 Quote of the day : Life's like a Github repository. Nothing's going to change if you don't commit.
