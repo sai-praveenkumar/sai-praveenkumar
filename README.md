@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 -->
-- 🌱 I’m currently learning Kubernetes and Google Cloud
+- 🌱 I’m currently learning Kubernetes and Cloud Computing
 - 👯 I’m looking to collaborate on Machine Learning and Data Science Projects
 - 🤔 I’m looking for help with building AI Agents
 - 💬 Ask me about Data Structures and Algorithms, Machine Learning, Cloud Computing
